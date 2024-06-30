@@ -1,1 +1,1 @@
-# IT-Courses
+# Computer-Science-and-IT-Courses
